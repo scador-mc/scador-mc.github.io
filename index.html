@@ -1,23 +1,77 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <title>
+    MNML
+  </title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700|Raleway:500,700,100,300' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="css/mnml.min.css">
+</head>
 
-<div class="home">
+<body>
 
-  <h1 class="page-heading">Posts</h1>
+  <nav>
+    <div class="nav__logo"><img src="img/scador-logo.png" alt=""></div>
+    <ul class="nav__menu">
+      <li><a href="#">Products</a></li>
+      <li><a href="#">Team</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <header>
+    <div class="header__content">
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+      <h1>Mass customizations</h1>
+      <h4>FOR SMALL, MEDIUM AND LARGE COMPANIES</h4>
+      <button class="btn btn--inverse">Learn more</button>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    </div>
+  </header>
 
-</div>
+  <div class="subscribe">
+    <div class="subscribe__content">
+      <div class="subscribe__tagline">Stay up to the news, we don't spam</div>
+      <div class="subscribe__form">
+        <input type="text" placeholder="Enter your email... " />
+        <button class="btn btn--primary btn--small">Subscribe</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- main content -->
+  <div class="main">
+    <div class="main__content">
+
+      <h1 class="feature__title">Feature title</h1>
+      <div class="feature img--angular">
+        <p class="feature__text">Angular provides us many <strong>Objects</strong> such as $scope and $rootScope that are prefixed with $. This incites they're public and can be used. We also get shipped with things such as $$listeners, which are available on the Object but are considered private methods.</p>
+      </div>
+
+      <h1 class="feature__title">Feature title</h1>
+      <div class="feature img--angular img--left">
+        <p class="feature__text">Angular provides us many Objects such as $scope and <strong>$rootScope</strong> that are prefixed with $. This incites they're public and can be used. We also get shipped with things such as $$listeners, which are available on the <strong>Object</strong> but are considered private methods.</p>
+      </div>
+
+    </div>
+  </div><!-- .main -->
+
+  <div class="subscribe">
+    <div class="subscribe__content">
+      Stay up to the news
+    </div>
+  </div>
+
+  <footer>
+    <div class="footer__content">
+      &copy; scadormc
+    </div>
+  </footer>
+
+</body>
+</html>
