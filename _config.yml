@@ -9,6 +9,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: scador
 github_username:  scador-mc
+safe: false
 
 # Build settings
 markdown: kramdown
+
