@@ -5,6 +5,7 @@ date:   2015-01-21 19:21:45
 categories: scador documentation
 alias: /scador/learn-more.html
 ---
+![](/img/screen1.png =450x)
 
 ## WHAT IS IT
 Imagine a company selling complex products going through a custom assembly process before the order completes. They can decide to make a few variants of their product and mass produce it or they can hire an expert who will work with the customer in order to select components based on technical and business constraints. The first option causes loss of market share and stocking of excess inventory, the second requires highly paid labor from a subject matter expert.
