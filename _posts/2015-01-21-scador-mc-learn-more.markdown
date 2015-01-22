@@ -17,3 +17,17 @@ It makes the process of setting up a configuration knowledge base effortless - b
 Currently this type of product is in use mainly by large and some medium enterprises. We are aiming to expand the market all the way to small businesses. Our product can be used in a scaled-down version with a few basic constraints and as a multi-level setup with thousands of business rules per product. We have multiple scaling strategies.
 
 The technology serves providers of Assemble-To-Order products in the broadest sense: It could be a traditional hardware manufacturer like a car manufacturer or a service provider like an insurance or telecommunications company.
+
+##ADVANTAGE
+  - Based on true rule engine and using its performance 
+  - Simplicity of use
+  - Build with **Cloud** in mind
+  - Fits to all company sizes
+  - Interface agnostic - Default web, can be also Mobile, event sensors
+  - Based on solid Open Source technologies
+  - Not locked to particular technology 
+
+## WHY USE IT ALL
+Actually you don't have to. Scador MC is complete Configure-Price-Quote solution. You can use its Part Management and
+Pricelists but you can also just stick to bare bone conguration runtime if you believe rest of your infrasture is in
+a good shape.
