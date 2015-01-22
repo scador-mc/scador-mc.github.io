@@ -15,7 +15,7 @@ ScadorMC consolidates expert knowledge in the form of an easy to use self servic
 ## WHAT IT SOLVES
 It makes the process of setting up a configuration knowledge base effortless - both in the case where rules are simple and to a large extent when they are complex.The product provides cheap and speedy product customization up front and ensures configurations are always valid on the back end in a manufacturing environment, where errors are costly.
 
-![](/img/screen1.png)
+![](/img/screen2.png)
 
 ## WHO IS THE CUSTOMER
 Currently this type of product is in use mainly by large and some medium enterprises. We are aiming to expand the market all the way to small businesses. Our product can be used in a scaled-down version with a few basic constraints and as a multi-level setup with thousands of business rules per product. We have multiple scaling strategies.
