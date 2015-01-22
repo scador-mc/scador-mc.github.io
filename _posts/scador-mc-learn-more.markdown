@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Scador MC"
+title:  "Scador MC - Learn More"
 date:   2015-01-21 19:21:45
 categories: scador documentation
 ---
