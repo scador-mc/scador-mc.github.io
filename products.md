@@ -6,10 +6,12 @@ permalink: /products/
 
 Scador Mass Customisation contains following components.
 
-Scador Fact - product information, fact store 
+Scador Fact - Part Management, product information, fact store 
 
-Scador Quote - sales quote management
+Scador Price - Pricelist Management
 
-Scador Dev - development environment
+Scador Quote - Sales quote management
 
-Scador RT - standalone configuration runtime
+Scador Dev - Development environment, model structure and rule authoring.
+
+Scador RT - Configurator Runtime
