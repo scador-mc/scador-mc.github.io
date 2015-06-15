@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Products
+title: "Products - Scador.com" 
 permalink: /products/
 ---
 
