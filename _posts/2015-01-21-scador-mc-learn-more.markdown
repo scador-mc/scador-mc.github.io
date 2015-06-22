@@ -21,7 +21,7 @@ It makes the process of setting up a configuration knowledge base effortless - b
 Currently this type of product is in use mainly by large and some medium enterprises. We are aiming to expand the market all the way to small businesses. Our product can be used in a scaled-down version with a few basic constraints and as a multi-level setup with thousands of business rules per product. We have multiple scaling strategies.
 
 The technology serves providers of Assemble-To-Order products in the broadest sense: It could be a traditional hardware manufacturer like a car manufacturer or a service provider like an insurance 
-[insurance]({% post_url 2015-05-33-use-case-insurance %})or telecommunications company.
+[insurance]({% post_url 2015-05-33-use-case-insurance %}) [other](/scador/usecase-insurance.html)or telecommunications company.
 
 ##ADVANTAGE
   - Based on true rule engine and using its performance 
