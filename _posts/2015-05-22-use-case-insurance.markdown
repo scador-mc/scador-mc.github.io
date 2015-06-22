@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Use Case: Insurance - Scador.com"
-date:   2015-01-21 19:21:45
+date:   2015-05-22 19:21:45
 categories: scador documentation
 alias: /scador/usecase-insurance.html
 ---
