@@ -17,10 +17,15 @@ Best solution it to make tool where time and pressure are not relevant anymore p
 
 
 ## Case A: Define Product
-### Actor
+
+###Actor
+
 PM - Product Manager - its our sales person who will actually never psychically interact with a customer. 
-### Steps
+
+###Steps
+
 ##### Define product
+
 PM needs to define structure of the product or its product line. To do that PM is using Scador Facts module to 
 define insurance component classes. While for the user it will be single contract for us its still kind of 
 Bill of Material :)
