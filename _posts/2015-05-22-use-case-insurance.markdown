@@ -22,24 +22,31 @@ Best solution it to make tool where time and pressure are not relevant anymore p
 
 PM - Product Manager - its our sales person who will actually never psychically interact with a customer. 
 
-###Steps
+### Steps
 
-##### Define product
+#### Define product
 
 PM needs to define structure of the product or its product line. To do that PM is using Scador Facts module to 
 define insurance component classes. While for the user it will be single contract for us its still kind of 
 Bill of Material :)
-##### Create component instances
+
+#### Create component instances
+
 Second step is to define actual instances of components. These will be options to chose by customers. For us
 these are defined in Scador Parts.
-##### Set up prices
+
+#### Set up prices
+
 Now its time to define pricelists. We will stick to the one list price however keep in mind that there might be
 many targeted for partners, government or corporate customers. Pricelist can have different geo location and 
 currency - so you can go global if you want :) When list price is defined you can set the prices of your insurance components or "parts".
-##### Set up discounts 
+
+#### Set up discounts 
+
 Important way to drive product sale is all sort of discounts. You can also define them in Scador Facts module,
 simply by naming it and setting discount value.
-##### Define Customer
+
+#### Define Customer
 Than PM has to define potential customer. PM needs to have some questions answered before client gets qualified for discounts. In this case PM can create set of classes in Scador Facts acting as questions to the customer.
 On the beginning PM is just interested if Customer is veteran, what is value of the Car. You mark this classes as 
 not a part - they will not be priced and not go to the invoice.
