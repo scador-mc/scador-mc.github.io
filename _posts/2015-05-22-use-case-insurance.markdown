@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Use Case: Insurance - Scador.com"
+date:   2015-05-22 19:21:45
+categories: scador documentation
+alias: /scador/usecase-insurance.html
+---
 ## Background
 Insurance products in present times are complex and there is nothing can stop its complexity growth besides maybe the ability to understand these products both for sales person and client. Generic insurance products with simple conditions
 may be risky for providers because the reality is changing dramatically and every day may bring something new. Generic insurance may lead to costly legal disputes about interpretation and every such dispute will bring either financial loss,
