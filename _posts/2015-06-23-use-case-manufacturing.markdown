@@ -10,7 +10,10 @@ Honestly hardware product configuration was primary reason Scador MC was written
 Most of car manufactures give you access to hardware configurator and Scador MC is totally capable of doing it lets make simpler case in order to demonstrate that it can be used in scaled down environment.
 
 ## Case A: Define Product
+
 ### Actor
+
 PM - Sales Manager - Owner of Custom Bike shop. 
+
 ### Steps
 ##### Define product
