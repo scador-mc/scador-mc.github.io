@@ -18,7 +18,7 @@ Best solution it to make tool where time and pressure are not relevant anymore p
 
 ## Case A: Define Product
 
-###Actor
+### Actor
 
 PM - Product Manager - its our sales person who will actually never psychically interact with a customer. 
 
