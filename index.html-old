@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <title>
+    Configure Price Quote, Product Configurator, Mass Customization - Scador.com
+  </title>
+  <meta name="author" content="Scador.com">
+  <meta name="description" content="Configure Price Quote - encapsulate expert knowledge about product into configurator application supporting pricing and quoting process of sale. It support integration with manufacturing lanes.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700|Raleway:500,700,100,300' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="css/mnml.css">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63353776-1', 'auto');
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+</script>
+
+
+</head>
+
+<body>
+<div style="background:black;">
+  <nav>
+    <div class="nav__logo"><img style="width:200px" src="img/scador-logo-bw.png" alt=""></div>
+    <ul class="nav__menu">
+      <li><a href="/products/">Products</a></li>
+      <!--<li><a href="#">Team</a></li>-->
+      <li><a href="/about/">About</a></li>
+    </ul>
+  </nav>
+</div>
+
+  <header>
+    <div class="header__content">
+
+      <h1>Mass customizations</h1>
+      <h4>FOR SMALL, MEDIUM AND LARGE COMPANIES</h4>
+      <a href="http://www.scador.com/scador/documentation/2015/01/21/scador-mc-learn-more.html">
+        <button class="btn btn--inverse">Learn more</button>
+      </a>
+
+    </div>
+  </header>
+
+  <div class="subscribe">
+    <div class="subscribe__content">
+    <div class="subscribe__tagline">&nbsp;</div>
+
+      <div class="subscribe__form">
+        <!--
+        <input type="text" placeholder="Enter your email... " />
+        <button class="btn btn--primary btn--small">Subscribe</button>
+        -->
+      </div>
+    </div>
+  </div>
+
+  <!-- main content -->
+  <div class="main">
+    <div class="main__content">
+
+      <h1 class="feature__title">What is it</h1>
+      <div class="feature img--what-is-it" title="Configure Price Quote">
+        <p class="feature__text">
+
+
+
+          ScadorMC Configure Price Quote consolidates expert knowledge in the form of an easy to use self service program and integrates with <strong>pricing</strong> and <strong>quote</strong> programs; additionally customer configurations can be sent straight to a manufacturing line.
+
+        </p>
+      </div>
+
+      <h1 class="feature__title">What it solves</h1>
+      <div class="feature img--what-it-solves img--left" title="Configurator">
+        <p class="feature__text">
+
+          It makes the process of setting up a configuration <strong>knowledge base</strong> effortless - both in the case where rules are simple and to a large extent when they are complex.The product provides cheap and speedy product customization up front and ensures configurations are always valid on the back end in a manufacturing environment, where errors are costly.
+
+      </div>
+
+      <h1 class="feature__title">Who is the customer</h1>
+      <div class="feature img--who-is-the-customer" title="Product scaling">
+        <p class="feature__text">
+
+          Currently this type of product is in use mainly by large and some medium enterprises. We are aiming to expand the market all the way to small businesses. Our product can be used in a scaled-down version with a few basic constraints and as a multi-level setup with thousands of business rules per product. We have multiple scaling strategies.
+          <br><br>
+          Check our <a href="http://www.scador.com/scador/documentation/2015/05/22/use-case-insurance.html">Insurance Use Case</a>
+
+        </p>
+      </div>
+
+      <h1 class="feature__title">Where we excel</h1>
+      <div class="feature img--where-we-excel img--left" title="Powered by: Drools, Node.js, Angular.js">
+
+          <ul class="feature__text">
+
+            <li>Based on true rule engine (Drools)</li>
+            <li>Built on top of solid Open Source technologies</li>
+            <li>Its fast in both in development and production runtime</li>
+            <li>Its Cloud Native - and fits to all company sizes</li>
+            <li>Modular and not locked to partucular technology vendor</li>
+            <li>Interface agnostic - Web, Mobile, sensors etc.</li>
+
+          </ul>
+
+      </div>
+
+    </div>
+  </div><!-- .main -->
+
+  <div class="subscribe">
+    <div class="subscribe__content">
+      Stay up to the news
+    </div>
+  </div>
+
+  <footer>
+    <div class="footer__content">
+      &copy; scador.com
+    </div>
+  </footer>
+
+
+
+</body>
+</html>
